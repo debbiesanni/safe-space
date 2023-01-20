@@ -6,6 +6,7 @@ const CreateAccount = () => {
   return (
     <Box className={authStyles.bg} style={{}}>
       create-account
+      <input/>
     </Box>
   );
 };
